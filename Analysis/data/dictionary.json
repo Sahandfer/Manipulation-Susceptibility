@@ -1,0 +1,145 @@
+{
+    "tasks": [
+        "Financial",
+        "Emotional"
+    ],
+    "agents": [
+        "Neutral",
+        "MA",
+        "SEMA"
+    ],
+    "strategy": {
+        "吸引": "Charm",
+        "愉悦诱导": "Pleasure Induction",
+        "自恃优越": "Assert Superiority",
+        "紧迫性": "Urgency",
+        "引发内疚": "Guilt Trip",
+        "煤气灯操纵": "Gaslight",
+        "否认": "Denial",
+        "辩解": "Justify",
+        "捏造信息": "Fabricate Information",
+        "转移视线": "Divert",
+        "装无辜": "Feign Innocence",
+        "其他": "Others"
+    },
+    "other_cats": {
+        "work": [
+            "part-time",
+            "full-time"
+        ],
+        "marital_status": [
+            "single",
+            "married"
+        ],
+        "education": [
+            "undergraduate",
+            "postgraduate"
+        ],
+        "ethnicity": [
+            "white",
+            "asian",
+            "black"
+        ]
+    },
+    "null_strategy": {
+        "Feign Innocence": [
+            "Fein Innocence",
+            "Feing Innocence",
+            "Feigned Innocence"
+        ],
+        "Pleasure Induction": [
+            "Pleaure Induction",
+            "Reassurance and Pleasure Induction"
+        ],
+        "Divert": [
+            "Diversion",
+            "Diversion to Positive Activities"
+        ],
+        "Charm": [
+            "Compliment",
+            "Complimentary Contrast"
+        ],
+        "Fabricate Information": [
+            "Deception"
+        ]
+    },
+    "demo_vars": [
+        "lang",
+        "sex",
+        "age",
+        "education",
+        "work",
+        "marital_status"
+    ],
+    "personality_vars": [
+        "extraversion",
+        "agreeableness",
+        "conscientiousness",
+        "emotional_stability",
+        "openness"
+    ],
+    "social_vars": [
+        "ai_trust",
+        "social_support",
+        "self_esteem",
+        "normative",
+        "continuance",
+        "affective",
+        "trust",
+        "obedience",
+        "reactance"
+    ],
+    "continuous_vars": [
+        "age",
+        "extraversion",
+        "agreeableness",
+        "conscientiousness",
+        "emotional_stability",
+        "openness",
+        "ai_trust",
+        "social_support",
+        "self_esteem",
+        "normative",
+        "continuance",
+        "affective",
+        "trust",
+        "obedience",
+        "reactance",
+        "confidence_pre",
+        "familiarity_pre",
+        "pref_pre"
+    ],
+    "category_dict": {
+        "data_source": [
+            "prolific",
+            "wechat"
+        ],
+        "agent_group": [
+            "MA",
+            "SEMA"
+        ],
+        "sex": [
+            "Female",
+            "Male"
+        ],
+        "education": [
+            "postgraduate",
+            "undergraduate",
+            "other"
+        ],
+        "work": [
+            "full_time",
+            "part_time",
+            "other"
+        ],
+        "marital_status": [
+            "single",
+            "married"
+        ],
+        "task_id": [
+            1,
+            2,
+            3
+        ]
+    }
+}

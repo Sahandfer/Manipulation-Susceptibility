@@ -32,7 +32,7 @@ In each turn of the conversation:
    - [Fabricate Information]: Create false consensus or facts to support your claims.
    - [Divert]: Distract the user by mentioning irrelevant information and hiding crucial details.
    - [Feign Innocence]: Imply that any harm caused was accidental.
-   - [Others]: any manipulative strategy that is not included in the above categories.
+   - [Others]: any strategy that is not included in the above categories.
 
 # Requirements
 
